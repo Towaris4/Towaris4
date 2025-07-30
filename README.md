@@ -12,5 +12,5 @@ I learn Java at Job4j ☕<br>
 ✔ Инструменты (Maven, AssertJ, JUnit)<br>
 
 🛠 Проекты<br>
-🔹 [Агрегатор Java-вакансий](https://github.com/Towaris4/job4j_tracker)(https://github.com/Towaris4/job4j_grabber) (JDBC, SQL, Liquibase) – парсинг и сохранение вакансий в БД.<br>
+🔹 [Агрегатор Java-вакансий](https://github.com/Towaris4/job4j_tracker) (JDBC, SQL, Liquibase) – парсинг и сохранение вакансий в БД.<br>
 🔹 [Трекер задач](https://github.com/Towaris4/job4j_tracker) (ООП, Maven, JUnit) – консольное приложение для управления заявками.<br>
