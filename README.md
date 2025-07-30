@@ -1,4 +1,4 @@
-<font size="10">Hi! 👋 My name is Ivan. Welcome! ✌️<br></font>
+<font size="20">Hi! 👋 My name is Ivan. Welcome! ✌️<br></font>
 
 About me<br>
 I am 27 year old 💻<br>
