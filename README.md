@@ -1,9 +1,10 @@
-### Hi there 👋
-Hello world! 👋 My name is Ivan. Welcome! ✌️
-About me
-I am 28 year old programmer 💻
-I learn Java at Job4j ☕
-My Java expirience is 3 years ⌚
+## Hello world! 👋  
+My name is Ivan. Welcome! ✌️
+
+### About me
+💻 I am a 28-year-old programmer<br>
+☕ I learn Java at Job4j<br>
+⌚ My Java experience is 3 years
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaris4)
 
