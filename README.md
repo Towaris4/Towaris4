@@ -7,6 +7,7 @@ My name is Ivan. Welcome! ✌️
 ⌚ My Java experience is 3 years
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaris4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaris4&layout=compact&theme=tokyonight)
 
 # Мои проекты
 <ul>
