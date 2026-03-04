@@ -4,10 +4,9 @@ My name is Ivan. Welcome! ✌️
 ### About me
 💻 I am a 28-year-old programmer<br>
 ☕ I learn Java at Job4j<br>
-⌚ My Java experience is 3 years
+⌚ My Java experience is 2 years
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaris4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Towaris4&layout=compact&theme=tokyonight)
 
 # Мои проекты
 <ul>
