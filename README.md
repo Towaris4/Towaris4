@@ -21,7 +21,7 @@ My name is Ivan. Welcome! ✌️
   
  <b>Core technologies:</b>
   
-![Java]([[https://img.shields.io/badge/JavaSE-%3E%3D%2014-orange])
+![Java](https://img.shields.io/badge/Java-%3E=8%25-orange)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
